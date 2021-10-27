@@ -46,12 +46,6 @@ export interface CrudTableComponentProps<DataModel> {
 export function CrudTableComponent<DataModel extends MinimalDataModel>(
   props: CrudTableComponentProps<DataModel>
 ): JSX.Element {
-  // const getDataObjectFields = (removeId: boolean = true): string[] => {
-  //   return removeId
-  //     ? Object.keys(props.data[0]).filter((fieldName) => fieldName !== 'id')
-  //     : Object.keys(props.data[0]);
-  // };
-
   const getDataObjectFields = (removeId: boolean = true): string[] => {
     return removeId
       ? Object.keys(props.data[0]).filter((fieldName) => fieldName !== 'id')
@@ -66,13 +60,14 @@ export function CrudTableComponent<DataModel extends MinimalDataModel>(
 
   const getRowsData = (): JSX.Element[] => {
     const fields = getDataObjectFields();
-    console.log(fields);
 
-    return props.data.map((row, idx) => (
-      <TableRow key={idx}>
-        {fields.map((field) => (
+    return props.data.map((row, index) => (
+      <TableRow key={index}>
+        {fields.map((field, idx) => (
           <>
-            <TableCell key={field}>{props.data[idx][field]}</TableCell>
+            <TableCell key={field}>
+              {props.settings.fields[idx].render(props.data[index])}
+            </TableCell>
           </>
         ))}
       </TableRow>
