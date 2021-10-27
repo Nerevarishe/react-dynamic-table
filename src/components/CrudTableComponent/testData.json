@@ -1,0 +1,2372 @@
+[
+    {
+        "id": "5e8c772d-cf24-47fd-9c26-de84a256ad8f",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "control_uk",
+        "label": "Контроль УК",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "76968e66-7725-4afe-a671-6312d69ac80b",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "price_agreement_numb",
+        "label": "Цена договора (цифры)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "c1142edc-3930-43f8-b3ee-1e2e68ce50e3",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "acting_basis",
+        "label": "Действующего на основании",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "63b71f20-234c-4724-9b78-aa0324573b9f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "939bea77-e28f-4b09-b0b8-469e6253367f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "03",
+        "label": "код",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "da6e8c6d-8d2c-4c07-a86a-64a1aee2733e",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_podtverzhdeniya_polnomochiy",
+        "label": "3) документ, подтверждающий полномочия представителя заявителя",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "3c3436a8-07fa-4511-aeed-5cb769e532cf",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "Код",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "2d41648d-39ee-429b-b694-1d53cb74eb30",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "number_users_packeg",
+        "label": "Кол-во пользователей согласно пакета Услуг",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "ef74aa2d-20d1-48a2-a6bc-5d3dcfe9f42f",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "to_medo",
+        "label": "Для МЭДО",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8ace49b8-0122-48ab-bd0b-506c40485103",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "region",
+        "label": "Регион",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "0704cb7c-0c88-4762-a547-d89678e008d1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "1",
+        "label": "1",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d248ebf8-c2bb-482f-ba91-cba71dacd782",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "info_o_zemel_uchastke",
+        "label": "Информация о земельном участке, расположенном по адресу",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "582f5721-ae55-4b1b-b408-90698d6b1132",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "response_quality",
+        "label": "Качество ответа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a5494054-1d35-4909-a81e-c57da9d9574f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "fio_zayavitelya",
+        "label": "ФИО заявителя",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "f829e263-0bc5-487b-992c-13a32b43752d",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_index",
+        "label": "Индекс документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "08bc895f-c79b-445f-b34d-4f7dd8419071",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "category_zemel_zemelnogo_uchastka",
+        "label": "Категория земель земельного участка",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "62b511f5-6b62-49a3-855e-d45bcffb197c",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "from_print",
+        "label": "От кого (для печати)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "69a87084-a1da-45da-8f06-b9a32f51d869",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "removing_control",
+        "label": "Снятие контроля",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "ce178917-a7dc-4b71-b9a6-b9ca44d70a86",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "shema_raspolozheniya_uchastka",
+        "label": "2) схема расположения земельного участка",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "0eff19e4-4a94-496a-8444-372ce19ebabb",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "content",
+        "label": "Содержание",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d91df231-78ea-4a8a-8aec-353f41b4ca79",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "position",
+        "label": "Должность",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "eb047c69-a293-4598-98c0-ad97256150c3",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "resolution",
+        "label": "Резолюция",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "37808582-3ff6-4abc-b8e9-5811d56b8461",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "request_character",
+        "label": "Характер обращения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "848e13e4-6298-4467-9626-32b903beb173",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Наименование подразделения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "85a75126-a8d3-467c-a8a3-da2e6cc51884",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "naimenovan_proekta_stroy",
+        "label": "Наименование проекта строительства:",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "9e002053-2873-46b5-8ef3-88b7d427e34c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "razmer_zadoljenosti",
+        "label": "Размер задолженности",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "726c38f5-0d50-4e98-b7cb-5784d529f73d",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date",
+        "label": "Дата",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6d1842bd-594a-4b54-bab1-d692e998a0de",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "date_violation_terms",
+        "label": "Даты сообщений о нарушении сроков",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "996dadc9-17c1-4faa-b165-a60e7763d6d8",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "price_agreement_lett",
+        "label": "Цена договора (прописью)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8f46e9d1-5b0c-44f5-b660-8d07022d71be",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "content_treatment",
+        "label": "Содержание обращения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1ca11836-35e4-4407-949a-c7a2534414b6",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "1",
+        "label": "Код вида",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "fe992929-e9be-4ea8-be3a-9715a36c03ee",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "data_vidachi",
+        "label": "дата выдачи",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "f28317e3-3a4d-4906-815c-41edffe55258",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "adress_ob_kap_stroy",
+        "label": "Адрес объекта капитального строительства:",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "13da2ef1-ed2a-4664-befd-0fa77ac683bd",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "another_docs",
+        "label": "4) другие документы",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "ada018b9-360e-4098-822b-1cd62b82ec13",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "12",
+        "label": "12",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7edc084f-6219-4222-9fc3-e1c1890a0abd",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "supervisory",
+        "label": "Контролирующий",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "40ec3e68-bb9f-40a1-b45c-26952959fa80",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "whom",
+        "label": "Кому",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1b40ab4c-d84c-477d-8dd4-2f847f814da1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "request_ppl",
+        "label": "Обратилось чел",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "c046e14d-978f-4fda-ab7f-c8fb723b12d0",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_execution",
+        "label": "Дата исполнения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "995319e0-a73d-4a0c-9b52-22b8ec1f1b74",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "name_doca",
+        "label": "Название документа",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "fb323865-1992-4e35-a642-6db0ba7a5f81",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_reg",
+        "label": "Дата регистрации",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "f5401d13-9663-4ba1-ab0e-f7ee25dc151b",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "control_top_org",
+        "label": "Контроль вышестоящ орг",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "165683f5-5d9e-4001-99fd-d491daaace9b",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "info_carrier",
+        "label": "Носитель документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5a18011d-d4f1-4a09-bc43-127b74c2e3fd",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "name_podrazdel",
+        "label": "Название подразделения",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "3c1454d5-faee-4709-b913-fc3264cfdf0f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_code_group",
+        "label": "Код группы",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "98aefda2-af6c-4151-a6f6-9ef5ab24eaf5",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "annotation_sb",
+        "label": "Кому (для печати)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "fd2a6f88-6f44-43ce-88b0-bc71963bc5b1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_view",
+        "label": "Вид документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "04c9131a-2925-450c-b295-6f7b2b8935f2",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_deadline_vnutr",
+        "label": "Внутренний срок исполнения",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "dd3530e6-7467-495d-aa4c-1c55d4fc0878",
+        "dataType": "time",
+        "frontendInput": "date_empty",
+        "code": "data_experiment",
+        "label": "Дата документа на который ссылаемся",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6304b588-fa16-4a2e-b87b-87ec6c10213c",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_return",
+        "label": "Дата возврата",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d9dbf0cf-cd15-4641-847c-fd2bbe7b6903",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "control",
+        "label": "Контроль",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6fadbb82-3d28-4f3c-b844-5d750b1e7f19",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "price_agreement_lett_cop",
+        "label": "Цена договора (прописью копейки)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "9b155829-5ea1-4af3-986b-e4742cdf79b4",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "nomer_correspondenta",
+        "label": "№ корреспондента",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "0fcda107-3e33-458c-98a4-5fc0d9899810",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "2",
+        "label": "Название отдела",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "1c8449f7-32e6-47ee-8f99-0fd7823b4dd9",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "for_official_use",
+        "label": "ДСП",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "27fd913f-e98b-4d3a-bf08-5e5ed0944cc7",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_sign_init_input",
+        "label": "Признак первонач ввода",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "22bb6c80-66ba-4219-bd71-836f3a22a1ec",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "2c4b17ac-74be-456a-b8b4-c3895c8df227",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "name_mesto_zayavitel",
+        "label": "Наименование и место нахождения заявителя",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "93da9c72-5ea8-468b-9d13-6eadcafd5413",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "name_organization",
+        "label": "Наименование организации",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "4df5a089-fdcc-4a2f-8369-0a3975100d29",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "from",
+        "label": "От кого",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "31e9604a-4411-4d81-95d9-b45d1b2f9702",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "charged_reviewing",
+        "label": "Кем поручено рассмотрение",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "bfe12671-049c-4868-ad1f-5b9ea5ff4fc2",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "dly_nomera",
+        "label": "для №",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "543e5ad8-1c73-4b18-a438-6288421ad0fc",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "zayavitel",
+        "label": "Заявитель",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8750f780-f2a9-439c-b751-b36c690d38ca",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "annotation",
+        "label": "Данные о получателе (для печати)",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "d8e5a5f2-3ea6-440f-b970-6c6f64ac74a7",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "en",
+        "label": "Английский",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "42da67d1-f48c-4643-809a-eaf7cca77aef",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_num",
+        "label": "№ документа",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "fc86c14d-5c98-4867-9716-54f165741bcd",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "qty_page_add_copy",
+        "label": "Кол-во листов, прил., экз.",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "44ef64c9-806b-45b3-9312-92ade13f415f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "Индекс документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "05490878-8532-4c85-9a17-76483cc3f667",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "rukovodstvuyas_statyami",
+        "label": "Руководствуясь статьями",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "390dca49-82a7-46e7-ab58-c73c5a9e5797",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_deadline",
+        "label": "Срок исполнения",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "f7c61667-c531-4fc1-bd98-b65b7c70489a",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "data_dogovora",
+        "label": "Дата Договора",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "e6fdcb3a-4aca-4424-8e79-06c1910e39d9",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_fio",
+        "label": "ФИО",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b46e14c9-2bee-497d-a1cf-877d6d87c1bb",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_num_in",
+        "label": "Входящий №",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "01ac5fc6-e5ac-467a-99ae-f6d2d2d4efb5",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "deadline_document",
+        "label": "Конечный срок по документу",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "743d8816-d6d0-47c6-9d74-b3d528d9c295",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "request_double",
+        "label": "Дублет",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "edad8b57-f800-4985-99b7-132d55cf6175",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_title",
+        "label": "Наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "972e6964-fc3f-4585-b7d6-b1c75396f677",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "theme",
+        "label": "Тематика",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1179ede5-7771-44dd-bfcd-17103bba0eb0",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "liter_goskomreg",
+        "label": "Литер",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1eba1292-84a8-4f95-9518-0d09a5ce224b",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_index_corresp",
+        "label": "Индекс корреспондента",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "93963845-319e-4e74-85f5-3c0d1800d522",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "link_to_num",
+        "label": "Ссылается на №",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "afd2f2d9-bd2e-4440-86b1-92508767eb03",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "person_decision_maker",
+        "label": "Лицо принимающее решение",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "e760276c-3cc6-470f-9f5a-58f968373f9f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "themes",
+        "label": "Тематики",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "768bf4b4-69e9-43ad-814d-91039c2f4552",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "to_num",
+        "label": "На №",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "f4d77a7e-79a6-4185-ad95-0ca9ed280709",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "execution_mark",
+        "label": "Отметка об исполнении",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7c16fa2e-cc4b-4fa8-b4d6-0708e3786b86",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "123",
+        "label": "123",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7e98a979-3f0b-4d42-b5d7-69620ad84b7f",
+        "dataType": "time",
+        "frontendInput": "text",
+        "code": "actual_period",
+        "label": "Фактический срок",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b3b698b8-4cd2-4fdf-980c-56474fbc5231",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_template_doc_idx_justic",
+        "label": "Шаблон индекса документа для Юр. управления",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "91504f69-2614-43ff-a59a-2a874533a5a8",
+        "dataType": "string",
+        "frontendInput": "signature",
+        "code": "signature",
+        "label": "Подпись",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "5960cc5d-00b7-4c8b-9ada-f06397a665ec",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "urgent",
+        "label": "Срочный",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "af03b941-5840-48b6-88b7-c8a9b48aa7e2",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "Corr_address",
+        "label": "Адрес корреспондента",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "a79f4ef1-a86e-4a03-b95b-f178a396c0e1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_title_instrumental",
+        "label": "Наименование творительный падеж",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "72129b2e-ecb4-4044-9891-d585bef7750c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "summa_dogovora_new",
+        "label": "Сумма договора",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b2226a72-7279-434d-b10c-eb1a2573acba",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "correspondent",
+        "label": "Корреспондент",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "23f5bd92-0dc8-43b0-a972-657fae5479aa",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "passport_data",
+        "label": "Паспортные данные",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "b28a80f6-8edf-4eb7-9dc3-a9102e7b071c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "ploshad_goskomreg",
+        "label": "Площадь",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "e9021868-72c1-413c-a718-a25f08f0dd3e",
+        "dataType": "string",
+        "frontendInput": "targetDepartmentAfterSignPicker",
+        "code": "target_department_after_sign",
+        "label": "Адресат после подписания",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "f977f0e0-2ebb-44cd-ac17-20f99d4c61f4",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_composition",
+        "label": "Состав документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d4e843b2-b440-409e-a19a-d8545c5576cb",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_item_number",
+        "label": "Номенклатурный номер",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "9fae4c11-a8ca-4b62-8eec-9a1c7b5d9288",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "vetrinarny_vrach47",
+        "label": "Ветеринарный врач-регистратор (47)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5a2ebebe-fbf2-4d58-af02-562f98922d4d",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_s",
+        "label": "Дата Договора с",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "3911d506-3dbc-4213-b664-f83236f21802",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "responsible_performer",
+        "label": "Ответственный исполнитель",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "fef4ca86-a765-4f13-b1ae-a916cb6ab7da",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "12511bec-79e0-4053-973e-7b9e1b250315",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "docs_podtverzhdeniya_prava",
+        "label": "1) документы, подтверждающие право заявителя на приобретение земельного участка без проведения торгов",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "c26646e0-0067-41da-915c-a9e9d5023065",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "podpisant_iniciali",
+        "label": "ФИО подписанта сторонней организации (сокращенно)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "e66374c9-4c30-4817-903c-e96a536cf551",
+        "dataType": "string",
+        "frontendInput": "signature",
+        "code": "coordinator_name",
+        "label": "Имя согласователя",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "96b40f41-6e19-4b28-a027-aaafb3911145",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "rekonstrukcii_goskomreg",
+        "label": "Информация о произведенных реконструкциях",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "32d43592-0978-40d8-8829-1e4ab3b2a9bf",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "Код",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "73509acb-ddac-4e26-9bc7-ad972b5d7292",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "whom_reported",
+        "label": "Кому доложено",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7eb190e9-0036-4609-8bc7-ede0d03337e6",
+        "dataType": "string",
+        "frontendInput": "targetDepartmentPicker",
+        "code": "target_department",
+        "label": "Адресат",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "4cc070a5-b8c2-4b5d-8436-eda3cef83244",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "chief_performer",
+        "label": "Главный исполнитель",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "3b6b6bfb-1a96-4b98-ab60-a4931e2b54a1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_title_genitive",
+        "label": "Наименование родительный падеж",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "68fddcc2-b8d5-4c53-a41b-8bf1fce029b6",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "annotation_sz",
+        "label": "Данные кому от кого (для служебной записки)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6cb53061-b82c-479f-b353-aee61bdb8d41",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "execution_document",
+        "label": "Исполнение документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "42b379c4-a5bf-44d2-96e9-df8e90e0f293",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "summa)dogovora_new",
+        "label": "Сумма договора",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a7dccbcd-17f7-44b8-96bf-11e2e01c4993",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "recvizit_licenziata",
+        "label": "Реквизиты Лицензиата",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "3ee49ec8-c4ae-413f-a525-fff494b4a073",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "presentation_info",
+        "label": "Представление информации",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "9f6e07e2-e52e-46a7-82aa-5e6b55f6b6a2",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "show_signature",
+        "label": "Отображать ЭП при печати",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "356341a5-0209-4278-9d4c-7da9412fad74",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_sign_doc",
+        "label": "Признак документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d3464fc5-1ebd-4170-a0ce-5c593b19c54d",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Вид документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "57a0dfec-845c-433d-9354-0b374ae0c61c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "Индекс документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b295f5df-8cdd-4a56-bf85-ddd3d23738d5",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_input",
+        "label": "Дата поступления",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "458adeb1-96a4-44ec-80ff-35949e2cc48b",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "actual_execution",
+        "label": "Фактическое исполнение",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "ef9033e1-e19e-4a66-91ff-90d3888fc0d3",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01-01",
+        "label": "код",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "e2fb6d05-7038-45c1-a842-65b52f0813e0",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "out_medo",
+        "label": "Для отправки по МЭДО",
+        "multiple": false,
+        "required": true,
+        "editable": false
+    },
+    {
+        "id": "0b1cea62-82b6-4ed0-9997-ff4009227f9f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "Тип документа",
+        "label": "Тип документа (Крымтех)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "9af021a5-8d74-45e1-aa83-796b78341455",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_doc",
+        "label": "Дата документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "364e80f1-7675-4dc6-9db6-dc2d79440beb",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "position_signatory",
+        "label": "Должность подписанта",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "15afb87a-11dc-4736-8e0b-2fdeca6688fe",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "primechanie_goskomreg",
+        "label": "Примечание(ГКР)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "613de862-bf55-4ba0-b60b-9e871c193e52",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "response_number",
+        "label": "Ответ на номер (для печати)",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "295b973a-23d8-4ece-b06d-e22cdc661fa9",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "isprashivaemoe_pravo",
+        "label": "Испрашиваемое право",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "180df60c-9f58-4da6-86ac-14f83b6d24d3",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "size_penalty",
+        "label": "Размер штрафа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a65c51c6-6d56-462d-900d-36628329000e",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "po_sostoyaniu_na",
+        "label": "По состоянию на",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "ff55ecae-fb33-4b71-ace0-e4d3ce43a468",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_status",
+        "label": "Статус документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b966f241-5981-4788-abc7-e3a9e9dbc6a0",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "pravo_zastroyshika",
+        "label": "право застройщика",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "44dd4745-eda7-4a7d-aea3-0d009ea091ac",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_title_accusative",
+        "label": "Наименование винительный падеж",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "768d7164-3f03-4ac8-90db-4cdfd50bb0c8",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "result_review",
+        "label": "Результат рассмотрения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d6e70b7d-c53c-4409-9a9e-d0dfedb905b8",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "summa)dogovora_new",
+        "label": "Сумма договора",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "29f8664e-9ee3-44ae-9aeb-65327a845ad6",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a2b9e304-6f0b-4db3-8b85-2e24521eca99",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_valid_date",
+        "label": "Действителен до даты",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6ca02c4d-d693-4a7d-84d6-8461aaa26ee5",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "curator",
+        "label": "Куратор",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "15ac58ce-f71f-4139-8439-75af96c2fe2f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "003",
+        "label": "003",
+        "multiple": true,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8824c75f-16f9-4ec9-8926-01e1375af03f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "vid_reg_deistvia",
+        "label": "Вид регистрационного действия",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "81c00000-2285-440c-87ab-51566359679d",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_do",
+        "label": "Дата Договора до",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "aaf28749-6ca1-4190-a865-6920ae26724e",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "coordinator_pos",
+        "label": "Должность согласователя",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "db190287-df30-4fbf-8aed-2f47b967fbe8",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "annotation_sender",
+        "label": "Данные об отправителе (от кого)",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "64b64ec4-0c2f-4815-8c8e-bcf51e4eb86c",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "control_own",
+        "label": "Собственный контроль",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "af73b129-c7ef-4f7b-ac32-aec35e37cfb2",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "v_redakcii_ot",
+        "label": "в редакции от",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "10fa190a-f26a-4fcf-b598-02d8c7359920",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "repetition",
+        "label": "Повторность",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6a774e31-2d14-4a76-9564-153a6b3bbbbd",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "001",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "e4e35829-dfd8-45ed-87dd-eeddcfcbceda",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "podpisant",
+        "label": "ФИО подписанта сторонней организации (полностью)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "163a8028-7799-4375-9a2b-515db54737aa",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "reject_received_doc_reason",
+        "label": "Причина отклонения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a6a3a33b-2046-448e-8c6f-94427aa2f4f7",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "execution_state",
+        "label": "Состояние исполнения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "72160811-02fc-4350-93df-cc4fce62a77e",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "organisation",
+        "label": "Организация",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "9410555e-c0ab-409b-80d9-5b88fa52fa6a",
+        "dataType": "string",
+        "frontendInput": "onlyMyDepWorkerPicker",
+        "code": "send_forward_after_signature",
+        "label": "Получатели после подписания",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "26244fd0-cca9-494b-93df-7fb0ab95fd63",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "10f9e8a3-c9cc-4d16-85dc-d14bfab53289",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "kadastr_number",
+        "label": "Кадастровый номер (при наличии)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "4eb01694-8630-4c40-9138-65bd9dde8ec4",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "doc_control",
+        "label": "Контроль документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "fb1d3e60-12d4-4f43-ada4-4413391bdcf3",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "service_package",
+        "label": "Пакет услуг",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "c4d1546a-d79c-4010-80b5-484c0fcd2039",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "addres_zayavitela",
+        "label": "Адрес заявителя",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5aafdf43-3533-4134-b12d-895829f90819",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "performer",
+        "label": "Исполнитель",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8badae18-6370-433e-920d-16b655d6e554",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_title_nominative",
+        "label": "Наименование именительный падеж",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1a010795-8275-4fc6-a961-ce7299294fb8",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "identific_nomer",
+        "label": "Идентификационный номер домашнего животного (47)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "58cbc72e-5957-40a2-b713-9a0b05fd7f54",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "name_zastroy",
+        "label": "Наименование застройщика:",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "247bda52-66aa-439c-ad4f-8a43c4588458",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "srok_deystviya",
+        "label": "Срок действия",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1e665deb-9ab0-40c1-8f61-3b22c1903985",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_annotation",
+        "label": "Примечание",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b29825c4-7d21-4763-89d9-4ab5369aeec1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "type_connection",
+        "label": "Тип связи",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "bb4d3c03-4f42-4e81-930f-26f38946ede1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "nomer_dogovora",
+        "label": "№ договора",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "e59101de-e3b3-4855-be09-0f2f64521e3c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "inn_zastroy",
+        "label": "ИНН застройщика:",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a860b110-8edc-4b38-b7d3-50ce62d5af92",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01-01",
+        "label": "12",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a444f5ac-c71d-486b-a1de-27dead248191",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "vashe_organizacia",
+        "label": "Вашей организацией",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "2992acb2-605d-4b47-9c1f-1f7ac764cefb",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "002",
+        "label": "002",
+        "multiple": true,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "fdc6b907-f59c-4fa3-b8c2-ba45f6982542",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Наименование подразделения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "ac3324d6-6d33-4fe8-bf9d-bb067f1e91c1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "size_penalty_lett",
+        "label": "Размер штрафа (прописью)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7d9f3227-769b-4b6c-85be-7ca745713c1a",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "2",
+        "label": "Название вида",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7cbacd95-61e2-4935-afd4-4ebc2fe7b8c5",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_num_out",
+        "label": "Исходящий №",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5b86e84d-1084-40af-bd74-b7c8b99da4d9",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "osnovanie_predostavleniya",
+        "label": "Основание предоставления земельного участка без проведения торгов",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "68c7e4e8-e537-4b0f-91cf-12365f7e98c7",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "ogrn_zastroy",
+        "label": "ОГРН застройщика:",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "26591a53-6546-48b2-9b13-2ade82a69da3",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "control_ud",
+        "label": "Контроль УД",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "4fd46819-c151-4b24-ab6d-a30db02a3010",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "convocation",
+        "label": "Созыв",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "2b90cb2c-cea6-45cc-b3a5-e0b2f161b568",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "KDU_goskomreg",
+        "label": "КДУ",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "f0ed4aa9-064d-444b-843b-32327b78484d",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_from",
+        "label": "Дата от (для печати)",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "a179f51a-a2e1-4053-8781-a0cfc0819bb4",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "сумма договора",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6db712cd-f049-4452-8d22-7874391ba6ab",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "код",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "3e01ea6b-9426-4479-a71a-a76192b30734",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_sex",
+        "label": "Пол",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "52cd82f8-de57-4eef-89f1-411584ff2595",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "num_pages",
+        "label": "Листов",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "3d7d0405-38a4-431d-9be2-bcad2f1d0e58",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "123",
+        "label": "вфывыфв",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d534b5ce-cad3-474c-9475-12824f560b5c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "place_reg",
+        "label": "Место регистрации",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "cc9fd617-5ca9-4ba5-ab56-9c113a99ca66",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "annotation_address",
+        "label": "Адрес получателя (для печати)",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "f0210395-4db8-4b12-b7e6-61eead809619",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_template_doc_idx",
+        "label": "Шаблон индекса документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5520a73d-1970-455d-a2e2-be95f91e92f7",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "12",
+        "label": "12",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "f331960c-1ec3-4eb5-82a8-a5eafe717aeb",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "Индекс",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a4e0f368-949e-463f-b7c0-98a963e86482",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "control_uk_fcp",
+        "label": "Контроль УК ФЦП",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "67e55855-93f1-4ff8-8422-9005577e1e74",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_output",
+        "label": "Дата отправления",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "21fdbb15-3a41-4410-ad09-dd03f7f90a70",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "data_receipt",
+        "label": "Дата поступления",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "42aca1e2-704b-4534-93d0-63b1dcd69092",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "c32b91bc-07a7-4c1f-8a7f-ac1c15535d95",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Вид документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "9cc6de86-53fc-471b-bb94-927483987454",
+        "dataType": "string",
+        "frontendInput": "dateYear",
+        "code": "date_year",
+        "label": "Год",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "3adb9b21-9c55-4014-9bcb-f0f461ae3003",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "show_author",
+        "label": "Отображать автора и номер телефона на последней странице",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "3e3ec2bb-f0fc-4f16-ba6a-9c90dfa7862d",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "vidano",
+        "label": "Выдано",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "a4722c5c-4fe9-411e-8c15-69ccbc6d9074",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "fio",
+        "label": "ФИО",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "f73b5b86-c555-4eaa-9f98-c484cee50d29",
+        "dataType": "string",
+        "frontendInput": "workerPicker",
+        "code": "service_package",
+        "label": "Пекет услуг",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "96dd964f-7d63-4038-b7ea-966dc55fb765",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_curator_control_dep",
+        "label": "Кураторы Управления контроля, закрепл. за документами",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "554d123f-e600-4561-b416-3504eba5f1a4",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "01",
+        "label": "Код",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1d6cf60f-00e1-46ee-a276-729479560b96",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "ploshad_uchastka",
+        "label": "Площадь земельного участка",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "79b7f105-579b-4a9d-8dd2-0aa830c35e21",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "04",
+        "label": "Наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "9c0cfa03-8645-4d0f-831e-8d5db56a8aa2",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "street",
+        "label": "Улица, дом",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6aeec2f3-faf8-428e-9d6d-7da46aca16cf",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_transfer",
+        "label": "Дата передачи",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "0c1f9fb5-1b86-439c-bc68-b4354c3c2787",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "adres_kap_stroy",
+        "label": "Адрес объекта капитального строительства:",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "6bc97182-d49d-4513-b946-4da445f7746b",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_title_dative",
+        "label": "Наименование дательный падеж",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8688edc1-d194-4407-963a-0cd31ccdbaf5",
+        "dataType": "string",
+        "frontendInput": "wysiwig_small",
+        "code": "preamble",
+        "label": "Преамбула (для печати)",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5412c709-a327-4c2f-b8f1-5b0a955366ce",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_type",
+        "label": "Тип документа",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5c7bb22a-f205-44f2-9804-1ff5d5318ae9",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "project_name",
+        "label": "Наименование проекта",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8146a03a-86ed-4787-94c6-ebacf50cb437",
+        "dataType": "string",
+        "frontendInput": "textarea",
+        "code": "description",
+        "label": "Краткое описание",
+        "multiple": false,
+        "required": true,
+        "editable": false
+    },
+    {
+        "id": "bd534e27-b7ff-45c1-9164-ce069c80a42e",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "doc_zam",
+        "label": "Заметка (код корр-та)",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "9ca2888c-a4a5-4e6f-9387-626cee36172d",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_sign_manage_control",
+        "label": "Признак для Управления контроля",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7e6d9881-375c-4d4c-bc31-b8602ba61bb7",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cel_ispolzovaniya_uchastka",
+        "label": "Цель использования земельного участка",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "35e338dc-bc0e-4bb6-a9fe-2d464f2b4659",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "123",
+        "label": "123",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7668e1ae-6915-4d63-8dd0-e1100e2f7cc2",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_code",
+        "label": "Код",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "1be84551-a6b8-448d-83ab-38c97a3d74d6",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "send_to_chancellery_after_sign",
+        "label": "Отправить в канцелярию после подписания",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b76c008c-2fcd-4bd4-b014-598730b4c56b",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "fio_predstavitelya",
+        "label": "ФИО представителя",
+        "multiple": false,
+        "required": false,
+        "editable": true
+    },
+    {
+        "id": "ebfe01e8-e943-4875-af71-f8c1cfc54f5e",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "number",
+        "label": "Номер",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "7a235aba-4479-4ecb-af54-7e4c8f3c6d93",
+        "dataType": "time",
+        "frontendInput": "date",
+        "code": "date_set_time",
+        "label": "Установленный срок",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "5577afd8-fe58-47c2-b52d-8dae979b05ec",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "obekt",
+        "label": "Объект",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8cb14e06-3699-4b49-9361-159b207c435c",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "na_ruki",
+        "label": "На руки",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "4c0c0670-b1bb-4064-9ffc-9cf6ac499370",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "request_form",
+        "label": "Форма обращения",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "cc90cec0-2058-4914-8760-a3b6c720a0d1",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "is_dsp",
+        "label": "Для служебного пользования",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "bb9cef86-5597-4638-9a3c-7539a62cc1d0",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "02",
+        "label": "Нименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8768e8dd-d05d-4254-92a2-aa205dc2b27b",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "04",
+        "label": "Наименование",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "44019387-53e9-422d-bc4d-029df3f54f4c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "cl_position",
+        "label": "Должность",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "8d2208f8-9983-43b1-a122-fc7d0c91119f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "type_delivery",
+        "label": "Вид доставки",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "fbe65f58-a338-443e-a6e9-c327c2428033",
+        "dataType": "string",
+        "frontendInput": "checkbox",
+        "code": "transfer_hand",
+        "label": "Передача вручную",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "220c0eca-0d8b-4bfa-bed2-ce7764dcd04c",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "1",
+        "label": "Код отдела",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "a190bacc-e251-466a-b82c-328c7fa96264",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "adress_goskomreg",
+        "label": "Адрес",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "eab65f08-7425-4743-a055-bb718a5bd18f",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "razreshenie_stroitelstvo",
+        "label": "Разрешение на строительство №",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "b07aeac0-4c92-4f5b-9355-03b3725c5a52",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "asdas",
+        "label": "фывфыв",
+        "multiple": false,
+        "required": false,
+        "editable": false
+    },
+    {
+        "id": "d08efd82-0a5a-4f6d-b8dc-3b311f34e5b1",
+        "dataType": "string",
+        "frontendInput": "text",
+        "code": "test_0",
+        "label": "Тестовое свойство",
+        "multiple": true,
+        "required": true,
+        "editable": true
+    },
+    {
+        "id": "f0562e2f-3ce6-4fdd-bf7f-359a656f5a0f",
+        "dataType": "string",
+        "frontendInput": "date",
+        "code": "test_12",
+        "label": "Тестовое свойство 12",
+        "multiple": true,
+        "required": false,
+        "editable": false
+    }
+]
