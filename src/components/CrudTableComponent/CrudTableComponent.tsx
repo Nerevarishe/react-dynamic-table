@@ -8,27 +8,44 @@ import {
   TableRow,
 } from '@mui/material';
 
-// enum ActionTypes {
-//   ADD = 'add',
-//   EDIT = 'edit',
-//   DELETE = 'delete',
-//   DETAILS = 'details',
-// }
-
 interface MinimalDataModel {
   id: string;
   [key: string]: any;
 }
 
 export interface Action {
-  // type: ActionTypes;
+  /**
+   * Типы действий (добавляют нужные кнопки/компоненты)
+   */
   type: 'add' | 'edit' | 'delete' | 'details';
+
+  /**
+   * Действие при нажатии на кнопку
+   * @param id
+   */
   handler: (id?: string) => void;
+
+  /**
+   * Кастомный компонент вместо кнопки
+   */
+  component?: () => JSX.Element;
 }
 
 export interface Field<DataModel> {
+  /**
+   * Заголовок колонки в таблице
+   */
   header: string;
+
+  /**
+   * Название поля в котором данные возвращаются с API
+   */
   name: string;
+
+  /**
+   * Функиця которая отрисовывает элемент в ячейке
+   * @param object - Объект с данными который возвращает API
+   */
   render: (object: DataModel) => JSX.Element;
 }
 
@@ -46,10 +63,8 @@ export interface CrudTableComponentProps<DataModel> {
 export function CrudTableComponent<DataModel extends MinimalDataModel>(
   props: CrudTableComponentProps<DataModel>
 ): JSX.Element {
-  const getDataObjectFields = (removeId: boolean = true): string[] => {
-    return removeId
-      ? Object.keys(props.data[0]).filter((fieldName) => fieldName !== 'id')
-      : Object.keys(props.data[0]);
+  const getDataObjectFields = (): string[] => {
+    return props.settings.fields.map((field) => field.name);
   };
 
   const getHeader = (): JSX.Element[] => {
